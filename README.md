@@ -39,6 +39,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Need a Break from Google? Here are a few Google Alternatives!](https://dev.to/gomathishankar37/need-a-break-from-google-here-are-a-few-google-alternatives-470n)
+- [A Glimpse on Digital Currency](https://dev.to/gomathishankar37/a-glimpse-on-digital-currency-3c5o)
 <!-- BLOG-POST-LIST:END -->
 
 ---
