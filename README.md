@@ -10,9 +10,10 @@
 ### Connect with me:
 
 [<img align="left" alt="gomathishankar37 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gomathishankar37 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="gomathishankar37 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
-[<img align="left" alt="gomathishankar37 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="gomathishankar37 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gomathishankar37 | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="gomathishankar37 | Dev.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="gomathishankar37 | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="gomathishankar37 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 <br />
 
@@ -57,3 +58,4 @@
 [dribbble]: https://dribbble.com/gomathishankar37
 [dev]: https://dev.to/gomathishankar37
 [hackerrank]: https://www.hackerrank.com/gomathishankar37
+[twitter]: https://twitter.com/gshankGS
